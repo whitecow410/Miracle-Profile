@@ -61,8 +61,7 @@
 本服務條款會因不同情況隨時更新，當服務條款更新後將會公告於伺服器支援 (https://discord.gg/RfmpHECWYE)
 
 <h2>版權使用</h2>
-[Google](http://www.google.com/)
-
+这是一个链接 [菜鸟教程](https://www.runoob.com)
 1. [Settings icons | By Freepi] (https://www.flaticon.com/premium-icon/settingsButtons3280984?term=setting&page=1&position=69&page=1&position=69&related_id=3280984&origin=search)<br/>
    "Support icons | By Freepik": "https://www.flaticon.com/free-icon/technical-support_1055683?term=support&page=1&position=41&page=1&position=41&related_id=1055683&origin=search",
    "Meme icons | By Freepik": "https://www.flaticon.com/free-icon/meme_5247390?term=meme&page=1&position=2&page=1&position=2&related_id=5247390&origin=search",
