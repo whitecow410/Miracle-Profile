@@ -92,7 +92,7 @@
 [Verified User | By joalfa](https://www.flaticon.com/free-icon/verified-user_3736531?term=verify&page=1&position=31&origin=search&related_id=3736531)<br/>
 [Global Communication | By Freepik](https://www.flaticon.com/free-icon/global-communication_8121580)<br/>
 [Tickets | By Freepik](https://www.flaticon.com/free-icon/tickets_3472675?term=ticket&page=2&position=2&origin=search&related_id=3472675)<br/>
-[Voice Search | By Freepik"](ttps://www.flaticon.com/free-icon/voice-search_2282210?term=voice&page=1&position=3&origin=search&related_id=2282210)<br/>
+[Voice Search | By Freepik](ttps://www.flaticon.com/free-icon/voice-search_2282210?term=voice&page=1&position=3&origin=search&related_id=2282210)<br/>
 [Next Level | By Freepik](https://www.flaticon.com/free-icon/next-level_8282855)<br/>
 [Star | By Freepik](https://www.flaticon.com/free-icon/star_6711545)<br/>
 [Ranking | By Freepik](https://www.flaticon.com/free-icon/ranking_1603847)<br/>
