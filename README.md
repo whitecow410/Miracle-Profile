@@ -61,7 +61,8 @@
 本服務條款會因不同情況隨時更新，當服務條款更新後將會公告於伺服器支援 (https://discord.gg/RfmpHECWYE)
 
 <h2>版權使用</h2>
-[Settings icons | By Freepi] (https://www.flaticon.com/premium-icon/settingsButtons3280984?term=setting&page=1&position=69&page=1&position=69&related_id=3280984&origin=search "link")<br/>
+
+[Settings icons | By Freepi](https://www.flaticon.com/premium-icon/settingsButtons3280984?term=setting&page=1&position=69&page=1&position=69&related_id=3280984&origin=search)<br/>
 [Support icons | By Freepik](https://www.flaticon.com/free-icon/technical-support_1055683?term=support&page=1&position=41&page=1&position=41&related_id=1055683&origin=search)<br/>
 [Meme icons | By Freepik](https://www.flaticon.com/free-icon/meme_5247390?term=meme&page=1&position=2&page=1&position=2&related_id=5247390&origin=search)<br/>
 [Game controller icons | By Freepik](https://www.flaticon.com/premium-icon/game-control_1722368?term=game&page=1&position=7&page=1&position=7&related_id=1722368&origin=search)<br/>
