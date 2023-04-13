@@ -23,7 +23,7 @@
 
 <h2>機器人資訊</h2>
 🤖 最新版本 - v3.0<br/>
-🕰️ 最近更新日期 - 2/3/2023<br/>
+🕰️ 最近更新日期 - 5/4/2023<br/>
 ⚒️ 開發者 - WhiteCow, YT Mango, Sear<br/>
 
 <h2>隱私條款</h2>
@@ -98,3 +98,4 @@
 [Ranking | By Freepik](https://www.flaticon.com/free-icon/ranking_1603847)<br/>
 [Premium | By Freepik](https://www.flaticon.com/free-icon/premium_4907289)<br/>
 [Memory | By Freepik](https://www.flaticon.com/free-icon/memory_3211278?term=memory&page=1&position=17&origin=search&related_id=3211278)<br/>
+[Shuttle | By Freepik](https://www.flaticon.com/free-icon/shuttle_2285537)<br/>
